@@ -5,7 +5,8 @@ Test your geography skills by guessing country capitals in this fun and interact
 - CSS
 - JavaScript
 - Embedded JavaScript(EJS)
-- npm
+- Node.js
+- PostgreSQL
 ---
 
 To run this code on terminal use this
